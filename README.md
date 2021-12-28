@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇👇
     <br>
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADIL0448&repo=DXTROX_V1&theme=nightowl)](https://github.com/ADIL0448/DXTROX_V1)
   </div>
     
 ## Setup
@@ -30,9 +30,9 @@ Click WA logo to Join Support Group 👇👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@amal-dx/WhiteDevil-1?v=1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ADIL0448/WhiteDevil-1?v=1?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX_V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADIL0448/DXTROX_V1)
      </div>
 <br>
 <br >
@@ -41,7 +41,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://tinyurl.com/krzpy3rc)
 ``` 
   
-### Amal-dx
+### ADIL0448
 
 ### Safwan Ganz
 
@@ -56,9 +56,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ---------
 
-<a href="https://safwanganz-api.herokuapp.com"><img src="https://i.ibb.co/0s70fxc/OFC-20211106-131725.jpg" width="100" height="100"></a> | [![DXTROX](https://github.com/amal-dx.png?size=100)](https://github.com/amal-dx) | [![TERROR-BOY](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![SAFWAN-GANZ](https://github.com/SafwanGanz.png?size=100)](https://github.com/SafwanGanz) 
+<a href="https://safwanganz-api.herokuapp.com"><img src="https://i.ibb.co/0s70fxc/OFC-20211106-131725.jpg" width="100" height="100"></a> | [![DXTROX](https://github.com/ADIL0448.png?size=100)](https://github.com/ADIL0448) | [![TERROR-BOY](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![SAFWAN-GANZ](https://github.com/SafwanGanz.png?size=100)](https://github.com/SafwanGanz) 
 ----|----|----|----
-[ALIEN-ALFA](https://https://safwanganz-api.herokuapp.com) | [DXTROX](https://github.com/amal-dx) | [TERROR-BOY](https://github.com/terror-boy) | [SAFWAN-GANZ](https://github.com/SafwanGanz)
+[ALIEN-ALFA](https://https://safwanganz-api.herokuapp.com) | [DXTROX](https://github.com/ADIL0448) | [TERROR-BOY](https://github.com/terror-boy) | [SAFWAN-GANZ](https://github.com/SafwanGanz)
 Powered by ALIEN-ALFA | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
 
 
