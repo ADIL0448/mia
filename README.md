@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
+<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="2049480.jpg" width="40px" alt="hi"><br>
 <p align="center">
 
 ## 📢Introduce myself
 
-- 🙂I'm Amal
+- 🙂I'm ADIL
 - 🚩I'm a beginner in this field
-- 📍From pathripala,palakkad,Kerala,🇮🇳
+- 📍From mampad,Malappuram,Kerala,🇮🇳
 - 🏫Students
 
 <div align="center">
