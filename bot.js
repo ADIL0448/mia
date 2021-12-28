@@ -71,7 +71,7 @@ async function whatsAsena () {
     
         const conn = new WAConnection();
     const Session = new StringSession();
-    conn.browserDescription = ["Dxtrox-V_1", "Safari", '1.0.0']
+    conn.browserDescription = ["miamwol-V_1", "Safari", '1.0.0']
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
     var nodb;
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('DXTROX PERFECTLY WORKING💖')
+            chalk.green.bold('miamwol PERFECTLY WORKING💖')
         );
     });
     
@@ -261,7 +261,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ DXTROX ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ miamwol~______~*' +
                                     '\n*🌀 : https://chat.whatsapp.com/JyE9edUo3JUBa38nVTrfHc*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
