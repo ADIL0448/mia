@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="2049480.jpg" width="40px" alt="hi"><br>
+<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
 <p align="center">
 
 ## 📢Introduce myself
 
-- 🙂I'm ADIL
+- 🙂I'm Amal
 - 🚩I'm a beginner in this field
-- 📍From mampad,Malappuram,Kerala,🇮🇳
+- 📍From pathripala,palakkad,Kerala,🇮🇳
 - 🏫Students
 
 <div align="center">
@@ -22,29 +22,33 @@ Click WA logo to Join Support Group 👇👇
     <br>
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADIL0448&repo=DXTROX_V1&theme=nightowl)](https://github.com/ADIL0448/DXTROX_V1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
   </div>
     
 ## Setup
+### CLICK HERE👇🏻👇🏻👇🏻👇🏻
+
 <div align="center">
-
-  ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ADIL0448/WhiteDevil-1?v=1?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADIL0448/DXTROX_V1)
-     </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://tinyurl.com/krzpy3rc)
-``` 
+[![SETUP](https://www.linkpicture.com/q/dx.png)](https://github.com/terror-boy/Dxtrox-v-installer)
+ 
+ 
   
-### ADIL0448
+  
+## PART OF THIS PROJECT
+  
+  
+  - Amal-dx
+  
+  
+  - KTB (TERROR-BOY)
+  
+  
+  - Safwan Ganz
 
-### Safwan Ganz
-
+  
+  
+  
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -56,17 +60,20 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ---------
 
-<a href="https://safwanganz-api.herokuapp.com"><img src="https://i.ibb.co/0s70fxc/OFC-20211106-131725.jpg" width="100" height="100"></a> | [![DXTROX](https://github.com/ADIL0448.png?size=100)](https://github.com/ADIL0448) | [![TERROR-BOY](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![SAFWAN-GANZ](https://github.com/SafwanGanz.png?size=100)](https://github.com/SafwanGanz) 
+<a href="https://safwanganz-api.herokuapp.com"><img src="https://i.ibb.co/0s70fxc/OFC-20211106-131725.jpg" width="100" height="100"></a> | [![DXTROX](https://github.com/amal-dx.png?size=100)](https://github.com/amal-dx) | [![TERROR-BOY](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![SAFWAN-GANZ](https://github.com/SafwanGanz.png?size=100)](https://github.com/SafwanGanz) 
 ----|----|----|----
-[ALIEN-ALFA](https://https://safwanganz-api.herokuapp.com) | [DXTROX](https://github.com/ADIL0448) | [TERROR-BOY](https://github.com/terror-boy) | [SAFWAN-GANZ](https://github.com/SafwanGanz)
+[ALIEN-ALFA](https://https://safwanganz-api.herokuapp.com) | [DXTROX](https://github.com/amal-dx) | [TERROR-BOY](https://github.com/terror-boy) | [SAFWAN-GANZ](https://github.com/SafwanGanz)
 Powered by ALIEN-ALFA | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
 
 
-NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
-
+NOTE: This project will  maintained after `IF YOU REPORT ERROR`, that means no update. Feel free to anyone to continue this project :)
+  
+ # TO REPORT ERROR:-
+  ## AMAL DX 👇🏻👇🏻👇🏻
+  
+  - [![SETUP](https://www.linkpicture.com/q/download-1_50.jpg)](https://wa.me/917736308760?text=*To%20Report%20Error%20In%20Dxtrox-v1*)
   
   
-    
-
-
-
+  ## TERROR-BOY 👇🏻👇🏻👇🏻
+  
+  - [![SETUP](https://www.linkpicture.com/q/image-260nw-601427237.png)](https://wa.me/994403216454?text=*To%20Report%20Error%20In%20Dxtrox-v1*)
